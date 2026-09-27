@@ -1,1 +1,19 @@
- 
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ArgsEcho",
+            "request": "launch",
+            "mainClass": "escnaval.exemplo.ArgsEcho",
+            "args": "ola mundo 123",
+            "projectName": "lab01_1dc7549"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "escnaval.exemplo.HelloWorld",
+            "projectName": "lab01_1dc7549"
+        }
+    ]
+}
